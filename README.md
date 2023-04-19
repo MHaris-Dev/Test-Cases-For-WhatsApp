@@ -3,7 +3,9 @@ Here are some test cases to test WhatsApp as an SQA:
 
 ## 1. Registration and Login
 Verify that a user can successfully create an account on WhatsApp by entering valid credentials.
+
 Verify that a user can log in to their WhatsApp account using the correct username and password.
+
 Verify that an error message is displayed when an invalid username or password is entered during login.
 
 ## 2. Contacts and Messaging
@@ -100,3 +102,6 @@ Verify that the app has safeguards against malware and other security threats.
 Verify that the user can share different types of files (e.g., documents, images, videos) with their contacts.
 Verify that the app supports different file formats and sizes.
 Verify that the file sharing process is straightforward and easy to follow.
+
+# Conclusion:
+In conclusion, testing WhatsApp as an SQA requires a comprehensive approach that covers all major functionalities and use cases of the app. The test cases should ensure that the app is reliable, secure, and user-friendly. Testing should include functional, performance, security, and user interface testing, among other types of testing. It is also important to test the app on different device models and operating systems to ensure that it is optimized for various platforms. Through thorough testing, SQA can ensure that WhatsApp meets the user's needs and expectations and is a high-quality communication app.
